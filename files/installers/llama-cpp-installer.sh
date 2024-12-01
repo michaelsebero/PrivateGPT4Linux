@@ -17,4 +17,4 @@ poetry install --extras "ui llms-llama-cpp embeddings-huggingface vector-stores-
 
 poetry run python scripts/setup
 
-PGPT_PROFILES=local make run
+PGPT_PROFILES=local make
