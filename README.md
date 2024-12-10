@@ -4,7 +4,7 @@
 
 ### . Run the corresponding commands below.
 ```
-curl -LO https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/files/installers/llama-cpp-installer.sh
+curl -LO https://raw.githubusercontent.com/Michael-Sebero/PrivateGPT4Linux/main/files/installers/llama-cpp-installer.sh
 
 sh llama-cpp-installer.sh
 ```
